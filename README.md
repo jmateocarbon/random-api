@@ -104,9 +104,10 @@ This is an example of how to list things you need to use the software and how to
 
 Both Scripts have an input function on the command line:
 
-Virustotal.py scans infected URL
+Virustotal.py scans infected URL and returns a json
+![image](https://user-images.githubusercontent.com/51006392/126960329-7824cc09-c23e-4553-a412-1f38c34d09e3.png)
 
-While HaveIbeenPwned checks for databreaches linked to a specified account
+While HaveIbeenPwned checks for databreaches linked to a specified account: Update, my key has expired >:( 
 
 Notice there is a config.py file here, that is where you'd have to put your API Key
 * [VirusTotal](https://developers.virustotal.com/reference)
